@@ -19,6 +19,15 @@
 프로젝트 발표  
 
 
+### *Tool*
+Python  
+Pandas  
+Scikit-Learn  
+Matplotlib  
+Seaborn  
+
+
+<br/><br/>
 
 <br/><br/>
 
@@ -63,3 +72,14 @@
 <img width="100%" src="https://user-images.githubusercontent.com/111988648/187705148-6fa83c1b-5642-4ecb-8bc6-b7ca6a31d7b1.png"/>
 <img width="100%" src="https://user-images.githubusercontent.com/111988648/187705151-ad3135d3-626d-462e-8844-c7582e574f83.png"/>
 <img width="100%" src="https://user-images.githubusercontent.com/111988648/187709468-083dc00a-4579-49e5-b25c-c8d57c30f6db.png"/>
+
+<br/>
+
+### *MY THOUGHTS*
+
+<br/>
+
+-	질병을 다룬 데이터는 변수가 많아 절대적으로 성립하는 분석 결과를 도출하기 힘들다는 점이 어려웠음. 
+-	데이터 특성상 이상치, 결측치가 많이 존재하여 이를 어떠한 방식으로 처리해야 할 지도 고민이 많이 되는 부분이었으나 이런 순간마다 팀 회의를 통해 가장 적합하다고 판단되는 방식으로 분석 방법과 방향을 수정했음. 
+-	이 과정에서 홀로 프로젝트를 진행했다면 단순하고 편협한 방식으로 데이터를 분석했을 수도 있었겠다 느꼈음.
+-	팀원들의 의견이 큰 도움이 되었고, 데이터 분석가란 분석 능력 뿐만 아니라 의사소통과 협업 또한 중요한 직업임을 느낄 수 있었음.
